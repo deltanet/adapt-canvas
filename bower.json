@@ -1,0 +1,21 @@
+{
+  "name": "adapt-canvas",
+  "version": "2.0.0",
+  "framework": "2.0.4",
+  "homepage": "https://github.com/deltanet/adapt-canvas",
+  "issues": "https://github.com/deltanet/adapt-canvas/issues",
+  "displayName": "Canvas",
+  "component": "canvas",
+  "assetFields" : [
+    "_media.ogv",
+    "_media.mp4",
+    "_media.poster"
+  ],
+  "description": "HTML canvas element",
+  "main": "/js/adapt-canvas.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
